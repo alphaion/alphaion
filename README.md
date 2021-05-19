@@ -1,4 +1,5 @@
-![bannner](https://user-images.githubusercontent.com/57044551/116725307-63bcbc00-a9ff-11eb-8382-7f13485ae5c1.png)
+
+![github2 0](https://user-images.githubusercontent.com/57044551/118767354-401cc100-b89b-11eb-935c-d51240721233.png)
 
 <!--
 **alphaion/alphaion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
