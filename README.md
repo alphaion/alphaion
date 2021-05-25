@@ -1,6 +1,4 @@
 
-![github2 1](https://user-images.githubusercontent.com/57044551/118767812-dbae3180-b89b-11eb-975a-c75b3c78b950.png)
-
 <!--
 **alphaion/alphaion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
