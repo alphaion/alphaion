@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=alphaion&show_icons=true&hide_border=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaion&layout=compact&hide_border=true)
+
+![Rishabh](https://komarev.com/ghpvc/?username=alphaion)
