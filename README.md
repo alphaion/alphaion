@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaion&layout=compact&hide_border=true)
 
-![Rishabh](https://komarev.com/ghpvc/?username=alphaion)
