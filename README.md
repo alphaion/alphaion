@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=alphaion&show_icons=true&hide_border=true) 
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alphaion) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaion&layout=compact&hide_border=true)
 
