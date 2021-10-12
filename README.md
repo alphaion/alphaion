@@ -1,4 +1,5 @@
-![MacBook Pro - 1](https://user-images.githubusercontent.com/57044551/135860515-41c18928-a6e4-480d-b557-dfac35cd3aa5.png)
+![banner](https://user-images.githubusercontent.com/57044551/137028593-c098e063-0ce9-41cf-93c7-11a95b42354f.png)
+
 <!--
 **alphaion/alphaion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
